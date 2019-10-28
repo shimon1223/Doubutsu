@@ -1,10 +1,11 @@
 final int SQUARESIZE = 100;
 
-/*test*/
 
 void setup(){
   surface.setSize(6*SQUARESIZE,4*SQUARESIZE);
 }
+
+/*asdsfggfdsdfg*/
 
 abstract class AbstractArea {
   int posX;
